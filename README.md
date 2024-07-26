@@ -3,22 +3,22 @@
 </div>  
   
 
-## **<div align="center">Hi there, I'm Rohan Devdhar 👋</div>**  
+## **<div align="center">Hi there, I'm Pratiksha Arsole 👋</div>**  
   
 
-- 🔭 I’m currently working on CorporateLMS  
+- 🔭 I’m currently working on Web Developement 
   
 
-- 🌱 I’m currently learning Moodle and Web Development.  
+- 🌱 I’m currently learning Javascript and Web Development.  
   
 
-- ❓ Ask me about anything related to PHP, Python, Django and Frontend related Technologies.  
+- ❓ Ask me about anything related to Java, Python, c++,c lang and Frontend related Technologies.  
   
 
 - ⚡ Fun fact: I think I'm not lzy..   
   
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=RohanDevdhar&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=pratiksha-space&&style=flat-square" align="center" />
 </div> 
 <br/>  
 
@@ -65,9 +65,9 @@
     <a href="https://www.mysql.com/" target="_blank">
         <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
     </a>&nbsp;&nbsp;   
-  <a href="https://moodle.org/" target="_blank">
+<!--   <a href="https://moodle.org/" target="_blank">
     <img style="margin: 30px" src="https://w7.pngwing.com/pngs/78/454/png-transparent-moodle-original-logo-icon.png" alt="Moodle" height="50" />
-</a>
+</a> -->
 </div>
 <b>Tools</b>
 <div align="left">  
@@ -86,13 +86,13 @@
 
 
 ## Connect with me  
-<a href="https://github.com/https://github.com/RohanDevdhar" target="_blank">
+<a href="https://github.com/https://github.com/pratiksha-space" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-devdhar-3ab003208/" target="_blank">
+<a href="https://www.linkedin.com/in/pratiksha-arsole-aa49952a5/?original_referer=http%3A%2F%2F127.0.0.1%3A5500%2F target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="mailto:rohandevdhar915@gmail.com" target="_blank">
+<a href="mailto:pratikshaarsole39@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
   
@@ -102,8 +102,8 @@
 
 ## Github Stats  
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDevdhar&hide_border=true&layout=compact" align="center" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=RohanDevdhar&show_icons=true&count_private=true&hide_border=true" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksha-space&hide_border=true&layout=compact" align="center" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=pratiksha-space&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 
 <br/>  
